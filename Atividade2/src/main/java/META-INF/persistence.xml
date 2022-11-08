@@ -4,7 +4,6 @@
   version="2.0" xmlns="http://java.sun.com/xml/ns/persistence">
 
   <persistence-unit name="Atividade2AlissonKauan" transaction-type="RESOURCE_LOCAL">
-  <provider>org.hibernate.ejb.HibernatePersistence</provider>
   	<class>entidades.Estudio</class>
   	<class>entidades.Jogo</class>
     <properties>
