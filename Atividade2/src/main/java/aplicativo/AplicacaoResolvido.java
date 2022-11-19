@@ -12,7 +12,7 @@ public class AplicacaoResolvido {
 
 	public static void main(String[] args) {
 		
-				EntityManagerFactory emFactory = Persistence.createEntityManagerFactory("Atividade2AlissonKauan");
+				EntityManagerFactory emFactory = Persistence.createEntityManagerFactory("Atividade2AlissonKauand");
 				
 				
 				EntityManager em = emFactory.createEntityManager();
