@@ -9,7 +9,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>lp2a4_crud_properties</name>
+	<name>Github2</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
